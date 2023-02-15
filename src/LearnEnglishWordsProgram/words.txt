@@ -1,0 +1,4 @@
+dog: an animal with four legs
+cat: an animal with four legs and a tail
+mouse: an animal with four small legs and a long tail
+elephant: an animal with four large feet and a trunk
